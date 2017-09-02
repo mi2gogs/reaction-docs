@@ -4,7 +4,7 @@ To view and process orders, login and click on <i class="font-icon fa fa-envelop
 
 ## Processing an order
 
-Here's what your your order page looks like when your shop receives an incoming order:
+Here's what your order page looks like when your shop receives an incoming order:
 ![](/assets/admin-dashboard-orders-page.png "Reaction Commerce Orders")
 
 To start processing, click on the blue "Start" button. This will take you to the Order Details page, where you'll be presented with a summary of your fulfillment, as well as an invoice.
